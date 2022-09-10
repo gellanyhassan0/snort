@@ -12,3 +12,5 @@
 
 <code>cat /var/log/snort/snort.log</code><br>
 
+<code>cat /var/log/snort/snort.log|grep -aoE '.{20,100}'</code><br>
+
