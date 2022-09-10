@@ -18,3 +18,5 @@
 
 <code>cat /var/log/snort/snort.log|grep -aoE '.{20,100}'</code><br>
 
+#<code>echo "" > /var/log/snort/snort.alert.fast</code><br>
+
