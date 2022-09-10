@@ -10,3 +10,5 @@
 
 <code>leafpad /var/log/snort/snort.alert.fast</code><br>
 
+<code>cat /var/log/snort/snort.log</code><br>
+
